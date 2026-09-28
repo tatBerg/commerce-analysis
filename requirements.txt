@@ -1,0 +1,9 @@
+# Data inspection, cleaning and analysis
+pandas==3.0.6
+numpy==2.5.3
+
+# Charts and exploratory visualization
+matplotlib==3.11.2
+
+# Python kernel for Jupyter notebooks in VS Code
+ipykernel==7.3.0
