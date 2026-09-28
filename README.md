@@ -43,7 +43,10 @@ Part of the analyst's responsibility is therefore to translate a broad business 
 
 ## Dataset
 
-Source: **Online Retail / E-Commerce Data**
+Source: **[E-Commerce Data on Kaggle](https://www.kaggle.com/datasets/carrie1/ecommerce-data)** (`carrie1/ecommerce-data`).
+
+Download the dataset from the source above and place `data.csv` in `data/raw/data.csv`.
+The raw CSV is excluded from Git and must be downloaded separately after cloning the repository.
 
 The dataset contains transactional records from an online retail business.
 
